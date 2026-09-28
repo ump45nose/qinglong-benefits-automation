@@ -1,0 +1,6 @@
+.env
+*.log
+data/
+sessions/
+evidence/
+__pycache__/
