@@ -5,6 +5,7 @@
 | 上游 | 本地改动 | 反馈 |
 | --- | --- | --- |
 | Autsunset/epic-free | 订单历史无法解析时，逐商品核对已登录商店的 `In Library` 状态 | [issue #1](https://github.com/Autsunset/epic-free/issues/1) |
+| Ronchy2000/epic-freebies-helper | 保留已有购物车商品，确认结算金额为零后才自动下单 | [issue #31](https://github.com/Ronchy2000/epic-freebies-helper/issues/31) |
 | TheNetsky/Microsoft-Rewards-Script | 中英文仪表盘标签与无障碍进度计数的只读诊断 | [issue #617](https://github.com/TheNetsky/Microsoft-Rewards-Script/issues/617) |
 | WillpowerJin/ql-scripts | 阿里云社区签到后的延迟状态确认和只读轮询 | [issue #1](https://github.com/WillpowerJin/ql-scripts/issues/1) |
 | hex-ci/smzdm_script | 收窄为独立签到、奖励查询脚本并校验业务结果 | [issue #74](https://github.com/hex-ci/smzdm_script/issues/74) |
